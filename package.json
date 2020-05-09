@@ -11,7 +11,9 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@storybook/addon-storyshots": "^5.3.18",
     "core-js": "^3.6.4",
+    "jest-vue-preprocessor": "^1.7.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
